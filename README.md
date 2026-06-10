@@ -1,33 +1,33 @@
-<h1 align="center">Hola, soy Ciro 👋</h1>
+<h1 align="center">Hi, I'm Ciro 👋</h1>
 
 <p align="center">
-  <b>Desarrollador Full-Stack · Técnico en Programación</b> · Saladillo, Buenos Aires, Argentina 🇦🇷<br>
-  Construyo software que resuelve problemas reales: desarrollo web, ciberseguridad y blockchain.
+  <b>Full-Stack Developer · Computer Programming Technician</b> · Saladillo, Buenos Aires, Argentina 🇦🇷<br>
+  I build software that solves real problems: web development, cybersecurity and blockchain.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cirourrustarazu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!-- Reemplazá por tu portfolio cuando lo deployees -->
+  <!-- Replace with your portfolio link once it's deployed -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-2F49FF?style=flat&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="mailto:cirourrus25@live.com"><img src="https://img.shields.io/badge/Email-16140F?style=flat&logo=maildotru&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### Mi historia
+### My story
 
-- 🎓 Me recibí de **Técnico en Programación de Computadoras** y hoy sigo formándome con la **Licenciatura en Informática** (en curso).
-- 👨‍🏫 Fui **Tutor de React.js en CoderHouse**: enseñé componentes, hooks, estado y routing a grupos online, hice mentoría de proyectos, code review y evaluación técnica de entregas. Enseñar me obligó a entender las cosas de verdad.
-- 🖥️ Trabajé en **Sistemas y Soporte IT en Distrinando**: administración de infraestructura, redes, seguridad informática y resolución de incidentes del día a día.
-- 🔐 Hoy mi foco está en **ciberseguridad** (análisis de vulnerabilidades, hardening, pentesting) y **blockchain/Web3** (smart contracts, DeFi, análisis on-chain).
+- 🎓 I graduated as a **Computer Programming Technician** and I'm currently pursuing a **Bachelor's degree in Computer Science**.
+- 👨‍🏫 I was a **React.js Tutor at CoderHouse**: I taught components, hooks, state and routing to online groups, mentored projects, did code reviews and technical evaluations. Teaching forced me to truly understand things.
+- 🖥️ I worked in **Systems & IT Support at Distrinando**: infrastructure administration, networking, information security and day-to-day incident resolution.
+- 🔐 Today my focus is on **cybersecurity** (vulnerability assessment, hardening, pentesting) and **blockchain/Web3** (smart contracts, DeFi, on-chain analysis).
 
-### Qué puedo ofrecerte
+### What I can offer you
 
-- 🛠️ **Desarrollo web full-stack**: de la idea al producto funcionando, con React en el frontend y Python/Node.js en el backend.
-- 🔒 **Seguridad**: revisión de vulnerabilidades, hardening de servidores Linux y buenas prácticas para que tu sistema no sea el eslabón débil.
-- 🌐 **Infraestructura y redes**: administración Linux (Ubuntu/Debian), redes TCP/IP, Docker y CI/CD.
-- 🤝 **Mentoría y docencia tech**: experiencia real enseñando a programar y acompañando proyectos.
-- 📫 ¿Un proyecto en mente? Escribime por **[LinkedIn](https://www.linkedin.com/in/cirourrustarazu)** — disponibilidad inmediata, full-time remoto.
+- 🛠️ **Full-stack web development**: from idea to working product, with React on the frontend and Python/Node.js on the backend.
+- 🔒 **Security**: vulnerability reviews, Linux server hardening and best practices so your system isn't the weakest link.
+- 🌐 **Infrastructure & networking**: Linux administration (Ubuntu/Debian), TCP/IP networking, Docker and CI/CD.
+- 🤝 **Mentoring & tech teaching**: real experience teaching people how to code and guiding projects.
+- 📫 Got a project in mind? Reach out on **[LinkedIn](https://www.linkedin.com/in/cirourrustarazu)** — immediate availability, full-time remote.
 
 ### Stack
 
@@ -42,16 +42,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Web3-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
-### Proyectos destacados
+### Featured projects
 
-<!-- Actualizá esta tabla con tus repos reales a medida que los subas -->
+<!-- Update this table with new repos as you publish them -->
 
-| Proyecto | Qué es | Stack |
+| Project | What it is | Stack |
 |---|---|---|
-| [**tienda-api**](https://github.com/cirola/tienda-api) | API REST de e-commerce: JWT, roles, CRUD, filtros y tests | Python |
-| [**sigiv-ferreteria**](https://github.com/cirola/sigiv-ferreteria) | Sistema de inventario y ventas para una ferretería real | Java |
-| [**todo-app**](https://github.com/cirola/todo-app) | App de tareas tipada y prolija | TypeScript |
-| [**file-organizer**](https://github.com/cirola/file-organizer) | Automatización: ordena archivos por tipo y reglas | Python |
+| [**tienda-api**](https://github.com/cirola/tienda-api) | E-commerce REST API: JWT, roles, CRUD, filters and tests | Python |
+| [**sigiv-ferreteria**](https://github.com/cirola/sigiv-ferreteria) | Inventory and sales management system for a real hardware store | Java |
+| [**todo-app**](https://github.com/cirola/todo-app) | A clean, fully typed to-do app | TypeScript |
+| [**file-organizer**](https://github.com/cirola/file-organizer) | Automation: organizes files by type and custom rules | Python |
 
 ---
 
@@ -60,4 +60,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirola&layout=compact&hide_border=true&theme=graywhite" alt="Top languages" height="160">
 </p>
 
-<p align="center"><i>«El software se aprende construyendo y se domina enseñando.»</i></p>
+<p align="center"><i>"Software is learned by building and mastered by teaching."</i></p>

@@ -1,6 +1,3 @@
-<!-- Este archivo va dentro de un repo nuevo llamado EXACTAMENTE "cirola".
-     Es decir: github.com/cirola/cirola → GitHub lo muestra arriba de todo en tu perfil. -->
-
 <h1 align="center">Hola, soy Ciro 👋</h1>
 
 <p align="center">
